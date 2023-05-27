@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelaLoginCadastroPerfil</string>
+    <string name="Entrar">ENTRAR</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="button_cadastro">Cadastrar</string>
+</resources>

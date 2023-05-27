@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11818938263",
+    "project_id": "project-mct-72b37",
+    "storage_bucket": "project-mct-72b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11818938263:android:cd6e0f03edfe05aef75ed2",
+        "android_client_info": {
+          "package_name": "com.projetohome.telalogincadastroperfil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11818938263-qav4f51ejj1utd3n2s5215e3fradllb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0hF5trmWL0cqvNG2EEcucE_ROM-CWCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11818938263-qav4f51ejj1utd3n2s5215e3fradllb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
